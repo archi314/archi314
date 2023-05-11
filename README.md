@@ -14,10 +14,12 @@
 <img align="left" alt="JS" width="45px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" alt="Node.js" width="45px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
+</br>
+
 ## A little bit about me:
 - I’m passionate about writing code :fire:
 - I love football and playing the guitar :heart_eyes:
 - I’m currently learning Vue.js :heart:
 - I’m constantly learning new things :sunglasses:
 
-# Connect with me: artem.s95@mail.ru
+### Connect with me: artem.s95@mail.ru
