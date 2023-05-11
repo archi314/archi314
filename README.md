@@ -1,10 +1,10 @@
-<div id="header" align="center">https://media.giphy.com/media/26gmgL2He7AdeByIU/giphy.gif
-  <img src="" width="100"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/26gmgL2He7AdeByIU/giphy.gif" width="200"/>
 </div>
 
 <h1 align="center">Hi there 👋, I'm Artem</h1>
 
-<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+a+Junior+FrontEnd+Developer)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+a+Junior+FrontEnd+Developer)](https://git.io/typing-svg)
 
 <h2 align="center">My hard skills</h2>
 
