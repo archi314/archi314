@@ -18,6 +18,7 @@
 
 ## A little bit about me:
 - I’m passionate about writing code :fire:
+- I’m living in Lipetsk, Russia :smile:
 - I love football and playing the guitar :heart_eyes:
 - I’m currently learning Vue.js :heart:
 - I’m constantly learning new things :sunglasses:
