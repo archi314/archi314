@@ -22,4 +22,6 @@
 - I’m currently learning Vue.js :heart:
 - I’m constantly learning new things :sunglasses:
 
-### Connect with me: artem.s95@mail.ru
+### Connect with me through the following contacts: 
+- mail: artem.s95@mail.ru
+- tg: @archie134
