@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Artem</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+Data+Analyst+&+Fullstack+Web+Developer)](https://git.io/typing-svg)
 
 <h2 align="left">My hard skills:</h2>
 
