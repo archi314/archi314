@@ -10,7 +10,7 @@ My name is Artem. I'm a future data analyst.
 #### A little bit about me:
 - I'm currently studying data analytics at the Yandex Practicum course! :fire:
 - I have already completed the Yandex Practicum web development course. :smile:
-- I already know and use such technologies as Google Sheets, SQL (PostgreSQL), and DataLens in pet projects. :heart_eyes:
+- I already know and use such technologies as Google Sheets, SQL (PostgreSQL), DataLens, Python, Pandas, Matplotlib, Seaborn in pet projects. :heart_eyes:
 - I’m currently learning Python :heart:
 - I’m constantly learning new things :sunglasses:
 
