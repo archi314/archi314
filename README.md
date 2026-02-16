@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, Nice to see you!</h1>
 
 Welcome to my page!
-My name is Artem. I'm a future data analyst.
+My name is Artem. I'm Data Analyst.
 
 #### A little bit about me:
-- I'm currently studying data analytics at the Yandex Practicum course! :fire:
+- I'm currently studying Data Analytics at the Yandex Practicum course! :fire:
 - I have already completed the Yandex Practicum web development course. :smile:
-- I already know and use such technologies as Google Sheets, SQL (PostgreSQL), DataLens, Python, Pandas, Matplotlib, Seaborn in my pet projects. :heart_eyes:
-- I’m currently improving my skills in Python and Pandas for data analytics :heart:
+- I have already known and used such technologies as Google Sheets, SQL (PostgreSQL), DataLens, Python, Pandas, Matplotlib, Seaborn in my pet projects. :heart_eyes:
+- I’m currently improving my skills in Python and Pandas for Data Analytics :heart:
 - I’m constantly learning new things :sunglasses:
 
 #### Technologies:
