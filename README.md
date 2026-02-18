@@ -11,7 +11,7 @@
   *Python, SQL, statistics, DataLens, Google Sheets*
 - 💻 **Web Development course** — Yandex Practicum (completed)  
   * React.js, JavaScript, CSS, HTML,  basic backend (Node.js) — gave me a solid understanding of how web applications work*
-- 📚 **System Analysis course** — Karpov Courses (in progress)  
+- 📚 **System Analyst course** — Karpov Courses (in progress)  
   *Business process modeling, technical requirements, system architecture*
 - ⚖️ **Work experience as a tax lawyer**  
   *Developed strong analytical skills, attention to detail, and ability to work with complex documents*
