@@ -10,7 +10,7 @@
 - 🎓 **Data Analyst course** — Yandex Practicum (in progress)  
   *Python, SQL, statistics, DataLens, Google Sheets*
 - 💻 **Web Development course** — Yandex Practicum (completed)  
-  * React.js, JavaScript, CSS, HTML,  basic backend (Node.js) — gave me a solid understanding of how web applications work*
+  *React.js, JavaScript, CSS, HTML,  basic backend (Node.js) - gave me a solid understanding of how web applications work*
 - 📚 **System Analyst course** — Karpov Courses (in progress)  
   *Business process modeling, technical requirements, system architecture*
 - ⚖️ **Work experience as a tax lawyer**  
