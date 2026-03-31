@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About me
-- 🎓 **Data Analyst course** — Yandex Practicum (in progress)  
+- 🎓 **Data Analyst course** — Yandex Practicum (completed)  
   *Python, SQL, statistics, DataLens, Google Sheets*
 - 💻 **Web Development course** — Yandex Practicum (completed)  
   *React.js, JavaScript, CSS, HTML,  basic backend (Node.js) - gave me a solid understanding of how web applications work*
@@ -21,7 +21,7 @@
 ### 🛠 Tech stack
 
 **Languages & libraries:**  
-Python (pandas, matplotlib, seaborn), SQL (PostgreSQL), DataLens, Google Sheets, Git
+Python (pandas, matplotlib, seaborn), SQL (PostgreSQL), DataLens, BPMN 2.0, UML, Google Sheets, Git
 
 **Also familiar with:**  
 JavaScript, CSS, HTML
